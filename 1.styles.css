@@ -1,0 +1,39 @@
+a{
+    letter-spacing:2px;
+    word-spacing: 5px;
+    
+    color:blue;
+    margin-left:30px;
+    text-transform:uppercase;
+    display:inline;
+  }
+  head{
+    text-decoration:none;
+    text-align:center;
+  }
+  .start{
+    background-image:url("https://media.glamour.com/photos/59e7b92fd4bbde520fa022af/6:7/w_768/weddings-hub-lede-new.jpg");
+    background-repeat:no repeat ;
+    background-size:cover;
+  }
+  p{
+    
+    font-size:20px;
+  }
+  
+  footer{
+    margin-top:500px;
+    background-color:grey;
+    padding:1px;
+    line-height: 1;
+    text-align: center;
+  }
+  
+  .yes{
+  float:left;
+  justify-content: flex-end;
+  margin-top:500px;
+  
+  
+  
+  }
